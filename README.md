@@ -1,13 +1,16 @@
-# html-resume
+
+# HTML Resume
+
 ## Setup
 
-1. Clone this repository to your local machine:  
+1. Clone this repository using:
    `git clone https://github.com/ZemonGst/html-resume`
 
-2. Open the `index.html` file directly in your web browser.
+2. Navigate to the repository folder and open the `index.html` file in your web browser.
 
 ## Usage
 
-This page displays a simple HTML-only resume with sections such as About, Skills, Experience, Projects, Education, and Contact.
+This page presents a straightforward, HTML-only resume featuring sections like About, Skills, Experience, Projects, Education, and Contact.
 
 ![Screenshot](images/resume html.png)
+
