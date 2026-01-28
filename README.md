@@ -12,5 +12,4 @@
 
 This page presents a straightforward, HTML-only resume featuring sections like About, Skills, Experience, Projects, Education, and Contact.
 
-![Screenshot](images/resume html.png)
-
+![Screenshot](images/resumehtml.png)
